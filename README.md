@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rija Farooqi
 
-💼 **Data Engineer | Data Scientist | Cloud Enthusiast**  
+💼 **Data Engineer | Data Architect | Cloud Enthusiast**  
 🌍 London, England, UK  
 📫 Reach me: farooqirija@gmail.com | [LinkedIn](https://www.linkedin.com/in/rija-farooqi/)
 
@@ -15,7 +15,7 @@ I am an insightful and result-oriented Data Professional with over 5 years of ex
 ## 🌟 Professional Experience
 
 ### **Upwork** | Senior Data Consultant  
-_London, UK | August 2022 - Present_
+_London, UK | September 2022 - Present_
 
 - Built and deployed scalable data pipelines for clients in E-commerce, Retail, and IT domains.
 - Automated data processing using AWS Lambda and developed data pipelines with Snowflake, S3, and Python.
@@ -23,15 +23,15 @@ _London, UK | August 2022 - Present_
 - Developed ETL solutions using Airflow, Docker, AWS Glue, and Google Cloud DataFlow, leading to a 16% improvement in conversion rates.
 
 ### **Cloud Fish LLC** | Senior Data Software Engineer  
-_Alpharetta, GA, US | January 2020 – September 2022_
+_Alpharetta, GA, US | January 2020 – August 2022_
 
 - Developed an end-to-end data pipeline using AWS (S3, Athena, PySpark) to handle diverse data sources.
 - Implemented user-level pricing, increasing monthly sales revenue by 20%.
-- Led customer segmentation and market analysis projects, contributing to a 25% increase in sales and generating $20M in revenue.
+- Led customer segmentation and market analysis projects, contributing to a 25% increase in sales.
 - Built ML pipelines on AWS SageMaker and integrated CI/CD into batch data pipelines.
 
 ### **Systems Limited** | Data Engineer  
-_Doha, Qatar | June 2018 – December 2019_
+_Doha, Qatar | June 2019 – December 2019_
 
 - Designed a BI platform from scratch using modern cloud technologies.
 - Built and delivered an ETL pipeline to aggregate data for a Qatar-based company.
@@ -72,9 +72,9 @@ _Doha, Qatar | June 2018 – December 2019_
 ## 🎓 Education
 
 - **Master of Science in Computer Science**  
-  _National University of Computing and Emerging Sciences_ | August 2018 - June 2020
+  _National University of Computing and Emerging Sciences_ | August 2019 - June 2021
 - **Bachelor of Science in Computer Science**  
-  _National University of Computing and Emerging Sciences_ | August 2014 - June 2018
+  _National University of Computing and Emerging Sciences_ | August 2015 - June 2019
 
 ---
 
